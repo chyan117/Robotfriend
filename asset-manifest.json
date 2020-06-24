@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/chyan117/Robotfriend/static/css/main.adf1a11f.chunk.css",
-    "main.js": "/chyan117/Robotfriend/static/js/main.c0a019a9.chunk.js",
-    "main.js.map": "/chyan117/Robotfriend/static/js/main.c0a019a9.chunk.js.map",
-    "runtime-main.js": "/chyan117/Robotfriend/static/js/runtime-main.ca17198a.js",
-    "runtime-main.js.map": "/chyan117/Robotfriend/static/js/runtime-main.ca17198a.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/chyan117/Robotfriend/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.58523ca3.chunk.js": "/chyan117/Robotfriend/static/js/2.58523ca3.chunk.js",
-    "static/js/2.58523ca3.chunk.js.map": "/chyan117/Robotfriend/static/js/2.58523ca3.chunk.js.map",
-    "index.html": "/chyan117/Robotfriend/index.html",
-    "precache-manifest.7bbcfce279f3b0fe6bf91d58979341fa.js": "/chyan117/Robotfriend/precache-manifest.7bbcfce279f3b0fe6bf91d58979341fa.js",
-    "service-worker.js": "/chyan117/Robotfriend/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/chyan117/Robotfriend/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.adf1a11f.chunk.css.map": "/chyan117/Robotfriend/static/css/main.adf1a11f.chunk.css.map",
-    "static/js/2.58523ca3.chunk.js.LICENSE.txt": "/chyan117/Robotfriend/static/js/2.58523ca3.chunk.js.LICENSE.txt"
+    "main.css": "/Robotfriend/static/css/main.adf1a11f.chunk.css",
+    "main.js": "/Robotfriend/static/js/main.527437c2.chunk.js",
+    "main.js.map": "/Robotfriend/static/js/main.527437c2.chunk.js.map",
+    "runtime-main.js": "/Robotfriend/static/js/runtime-main.7398e44d.js",
+    "runtime-main.js.map": "/Robotfriend/static/js/runtime-main.7398e44d.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Robotfriend/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.58523ca3.chunk.js": "/Robotfriend/static/js/2.58523ca3.chunk.js",
+    "static/js/2.58523ca3.chunk.js.map": "/Robotfriend/static/js/2.58523ca3.chunk.js.map",
+    "index.html": "/Robotfriend/index.html",
+    "precache-manifest.9894472e5b6823838067e5ad6c966836.js": "/Robotfriend/precache-manifest.9894472e5b6823838067e5ad6c966836.js",
+    "service-worker.js": "/Robotfriend/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Robotfriend/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.adf1a11f.chunk.css.map": "/Robotfriend/static/css/main.adf1a11f.chunk.css.map",
+    "static/js/2.58523ca3.chunk.js.LICENSE.txt": "/Robotfriend/static/js/2.58523ca3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca17198a.js",
+    "static/js/runtime-main.7398e44d.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.58523ca3.chunk.js",
     "static/css/main.adf1a11f.chunk.css",
-    "static/js/main.c0a019a9.chunk.js"
+    "static/js/main.527437c2.chunk.js"
   ]
 }
