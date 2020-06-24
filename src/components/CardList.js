@@ -3,6 +3,9 @@ import Card from './Card.js';
 
 const CardList = ({robots})=>{
 	// Map is iterable
+	// if (true) {
+	// 	throw new Error('Noooo');
+	// }
 	const cardComponent = robots.map( (user, i) =>{
 		// For Need to give key
 		return (<Card 
